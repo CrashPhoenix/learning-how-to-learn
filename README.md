@@ -13,4 +13,7 @@ It is intended to be a web presentation, explaining and teaching three (3) topic
 3. Chunking
 
 ###Etc.
-As this project is a software project, I will be making updates and changes as I see fit. My goal is to make this presentation as enjoyable as it can be.
+This presentation is powered by [reveal.js](http://lab.hakim.se/reveal-js/).
+
+As this project is a software project, I will be making updates and changes as I see fit. My goal
+is to make this presentation as enjoyable as it can be.
